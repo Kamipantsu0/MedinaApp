@@ -1,0 +1,30 @@
+name: aiesecmedina
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/Assets/aiesec.gif
+    - lib/Assets/aiesec-preview 1.png
+    - lib/Assets/Messaging.png
+    - lib/Assets/Menu.png
+    - lib/Assets/Search.png
+    - lib/Assets/medina1.png
+    - lib/Assets/medina2.png
