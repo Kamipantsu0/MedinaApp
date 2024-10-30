@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "921531927203",
+    "firebase_url": "https://aiesec-7d1b9-default-rtdb.firebaseio.com",
+    "project_id": "aiesec-7d1b9",
+    "storage_bucket": "aiesec-7d1b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921531927203:android:34f183074f5508eb268d16",
+        "android_client_info": {
+          "package_name": "com.medina.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrGdgMlQAq4iBnElHneLzqND_RTVKBmCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

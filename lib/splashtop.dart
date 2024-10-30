@@ -106,7 +106,7 @@ class _SplashTopState extends State<SplashTop> {
             ),
             // Position the quote directly below the GIF
             Positioned(
-              bottom: screenHeight * 0.38, // Adjusts position based on the GIF height
+              bottom: screenHeight * 0.34, // Adjusts position based on the GIF height
               left: 0,
               right: 0,
               child: Padding(
